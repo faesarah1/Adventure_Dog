@@ -1,0 +1,1 @@
+Adventure Dog is a text-based adventure game where you, as an ~~incredibly~~ ~~somewhat~~ not-at-all clever dog, get to make choices. Some choices will get you into trouble, while others will reward you. This game was inspired by Dave Barry's "Adventure Dog" humor sketch. Enjoy!
